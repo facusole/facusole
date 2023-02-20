@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Facundo Solé,
+### I'm Facundo Solé,
 Front End Developer from Argentina 🇦🇷
 
 <!--

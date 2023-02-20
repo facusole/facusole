@@ -24,11 +24,11 @@ Here are some ideas to get you started:
 ### My skills
 * * *
 
-- JavaScript <img src='https://user-images.githubusercontent.com/108700711/220208156-cd83098c-1ecd-44ba-b7f2-752b76b79b56.png' width=32 height=32/>
+- JavaScript <img src='https://user-images.githubusercontent.com/108700711/220208156-cd83098c-1ecd-44ba-b7f2-752b76b79b56.png' width=20 height=20/>
 
-- React <img src='https://user-images.githubusercontent.com/108700711/220208175-031f3aeb-8d6f-4e77-9fe0-960a778d4e54.png' width=32 height=32/>
+- React <img src='https://user-images.githubusercontent.com/108700711/220208175-031f3aeb-8d6f-4e77-9fe0-960a778d4e54.png' width=20 height=20/>
 
-- Github <img src='https://user-images.githubusercontent.com/108700711/220208289-9bac2e63-37e0-4c45-a35b-5b8b5030d9ce.png' width=32 height=32/>
+- Github <img src='https://user-images.githubusercontent.com/108700711/220208289-9bac2e63-37e0-4c45-a35b-5b8b5030d9ce.png' width=20 height=20/>
 
 
 

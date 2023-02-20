@@ -1,6 +1,4 @@
-## Hi there 👋
-
-## I'm Facundo Solé, Front End Developer from Argentina 🇦🇷
+## Hi there 👋 I'm Facundo Solé, Front End Developer from Argentina 🇦🇷
 
 <!--
 **facusole/facusole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

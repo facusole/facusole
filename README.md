@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Facundo Solé,
+# I'm Facundo Solé,
 Front End Developer from Argentina 🇦🇷
 
 <!--
@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 
 ### What to expect 
-hr
+* * *
 
 - 🔭 I’m currently working on my portfolio and personal projects
 
@@ -20,6 +20,10 @@ hr
 
 - 💬 Get in touch! [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/facundo-solé-563305244/)
 &nbsp;
+
+### My skills
+* * *
+
 
 
 

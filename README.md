@@ -1,5 +1,6 @@
 ## Hi there 👋 I'm Facundo Solé
-I'm a Front End Developer from Argentina 🇦🇷 and a React enjoyer, currently looking for my first opportunity in IT!
+I'm a Front End Developer from Argentina 🇦🇷 
+React enjoyer, currently looking for my first opportunity in IT!
 
 <!--
 **facusole/facusole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

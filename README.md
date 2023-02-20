@@ -25,10 +25,13 @@ Here are some ideas to get you started:
 * * *
 
 - JavaScript ![image](https://user-images.githubusercontent.com/108700711/220208156-cd83098c-1ecd-44ba-b7f2-752b76b79b56.png)
+<img src='https://user-images.githubusercontent.com/108700711/220208289-9bac2e63-37e0-4c45-a35b-5b8b5030d9ce.png' width=48 height=48/>
 
 - React ![image](https://user-images.githubusercontent.com/108700711/220208175-031f3aeb-8d6f-4e77-9fe0-960a778d4e54.png)
+<img src='https://user-images.githubusercontent.com/108700711/220208289-9bac2e63-37e0-4c45-a35b-5b8b5030d9ce.png' width=48 height=48/>
 
-- Github ![image](https://user-images.githubusercontent.com/108700711/220208215-d67010f0-93ff-4a34-bf99-5b41f0d5cbbc.png)
+- Github ![image](https://user-images.githubusercontent.com/108700711/220208289-9bac2e63-37e0-4c45-a35b-5b8b5030d9ce.png)
+<img src='https://user-images.githubusercontent.com/108700711/220208289-9bac2e63-37e0-4c45-a35b-5b8b5030d9ce.png' width=48 height=48/>
 
 
 

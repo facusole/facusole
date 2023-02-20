@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio and personal projects
 
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Firebase
 
 - ⚡ Fun fact: I'm a football enjoyer, River Plate fan
 
@@ -24,7 +24,12 @@ Here are some ideas to get you started:
 ### My skills
 * * *
 
-[![JS]](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
+- JavaScript
+
+- React
+
+- Github
+
 
 
 

@@ -24,11 +24,12 @@ Here are some ideas to get you started:
 ### My skills
 * * *
 
-- JavaScript
+- JavaScript ![image](https://user-images.githubusercontent.com/108700711/220208156-cd83098c-1ecd-44ba-b7f2-752b76b79b56.png)
 
-- React
+- React ![image](https://user-images.githubusercontent.com/108700711/220208175-031f3aeb-8d6f-4e77-9fe0-960a778d4e54.png)
 
-- Github
+- Github ![image](https://user-images.githubusercontent.com/108700711/220208215-d67010f0-93ff-4a34-bf99-5b41f0d5cbbc.png)
+
 
 
 

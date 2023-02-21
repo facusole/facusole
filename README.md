@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio and personal projects
 
-- 🌱 I’m currently learning Firebase
+- 🌱 I’m currently learning Firebase and TypeScript
 
 - ⚡ Fun fact: I'm a football enjoyer, River Plate fan
 
@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 
 ## My skills
 
-<img src='https://user-images.githubusercontent.com/108700711/220208156-cd83098c-1ecd-44ba-b7f2-752b76b79b56.png' width=32 height=32/> <img src='https://user-images.githubusercontent.com/108700711/220208175-031f3aeb-8d6f-4e77-9fe0-960a778d4e54.png' width=32 height=32/> <img src='https://user-images.githubusercontent.com/108700711/220208289-9bac2e63-37e0-4c45-a35b-5b8b5030d9ce.png' width=32 height=32/> <img src='https://user-images.githubusercontent.com/108700711/220208932-e03e685a-d7b2-4949-9e86-e00e3a21a28f.png' width=32 height=32/>
+<img src='https://user-images.githubusercontent.com/108700711/220208156-cd83098c-1ecd-44ba-b7f2-752b76b79b56.png' width=32 height=32/> <img src='https://user-images.githubusercontent.com/108700711/220208175-031f3aeb-8d6f-4e77-9fe0-960a778d4e54.png' width=32 height=32/> <img src='https://user-images.githubusercontent.com/108700711/220208289-9bac2e63-37e0-4c45-a35b-5b8b5030d9ce.png' width=32 height=32/>
 

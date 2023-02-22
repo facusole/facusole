@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on my portfolio and personal projects
 
-- 🌱 I’m currently learning Firebase and TypeScript
+- 🌱 I’m currently learning Java, Firebase and TypeScript
 
 - ⚡ Fun fact: I'm a football enjoyer, River Plate fan
 

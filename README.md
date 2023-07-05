@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - Semantic HTML
 - CSS, SASS, TailwindCSS, Styled components
 - JavaScript/TypeScript
+- React
 - NextJS
 - Astro.build
 

@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Facundo Solé
 I'm a Front End Developer from Argentina 🇦🇷 <br/><br/>
-React enjoyer, currently looking for my first developer role!
+React enjoyer, currently getting the job done in https://www.humankind.art/!
 
 <!--
 **facusole/facusole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

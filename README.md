@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭  Next and Astro lover.
 
-- 🌱 Currently getting the job done in https://www.humankind.art/!
+- 🌱 Currently looking for an opportunity to grow!
 
 - ⚡ Fun fact: I'm a football lover, River Plate fan
 

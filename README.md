@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Facundo Solé
-I'm a Front End Developer from Argentina 🇦🇷 <br/><br/>
+I'm a Front-end Developer from Argentina 🇦🇷 <br/><br/>
 React enjoyer
 
 <!--

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭  Next and Astro lover.
 
-- 🌱 Currently looking for an opportunity to grow!
+- 🌱 Currently working to improve my framer motion skills!
 
 - ⚡ Fun fact: I'm a football lover, River Plate fan
 
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - JavaScript/TypeScript
 - NextJS
 - Astro.build
+- Framer motion
 - Semantic HTML
 - CSS, SASS, TailwindCSS, Styled components
 

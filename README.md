@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Facundo Solé
-I'm a Front-end Developer from Argentina 🇦🇷 <br/><br/>
+I'm a Front End Developer from Argentina 🇦🇷 <br/><br/>
 React enjoyer
 
 <!--
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 - 🔭  Next and Astro lover.
 
-- 🌱 Currently working to improve my framer motion skills!
+- 🌱 Currently mastering Framer-motion animations, Python and Go!
 
 - ⚡ Fun fact: I'm a football lover, River Plate fan
 
@@ -24,8 +24,12 @@ Here are some ideas to get you started:
 - JavaScript/TypeScript
 - NextJS
 - Astro.build
-- Framer motion
+- Framer-motion
 - Semantic HTML
 - CSS, SASS, TailwindCSS, Styled components
+
+## Want a webpage?
+
+I have a [fiverr gig already up](https://es.fiverr.com/s/AxrQPa) but please feel free to ask for anything else!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facusole)](https://github.com/anuraghazra/github-readme-stats)
